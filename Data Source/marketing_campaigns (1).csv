@@ -1,0 +1,26 @@
+Campaign_ID,Promotion_Campaign,Start_Date,End_Date,Marketing_Spend,Channel,Country,Campaign_Type,Performance_Score,Target_Audience_Segment,Campaign_Status,EV_Focus,ROI,Revenue_Generated,Influencer_Used
+CM4001,Summer Promo,24-07-2021,07-08-2021,1061934,Social Media,Singapore,Loyalty,74,Celebrities,Active,No,0.42,445224.28,No
+CM4002,Legends Promo,20-02-2020,14-04-2020,1554526,Influencer,Monaco,Loyalty,89,Collectors,Active,No,0.95,1476809.7,Yes
+CM4003,Launch Sprint,19-10-2024,21-01-2025,1501240,Events,Saudi Arabia,Awareness,98,Collectors,Completed,No,1.78,2672177.2,No
+CM4004,Heritage Sprint,18-09-2023,11-01-2024,1812260,Events,United Kingdom,Conversion,43,Collectors,Planned,No,-0.02,-36245.2,Yes
+CM4005,Launch Show,18-11-2023,05-03-2024,1452164,Social Media,Netherlands,Awareness,53,Young Enthusiasts,Planned,No,0.55,798190.2,No
+CM4006,Drive Series,03-02-2025,14-02-2025,566782,Events,United Kingdom,Awareness,53,Young Enthusiasts,Planned,No,0.12,68013.84,No
+CM4007,Heritage Series,27-11-2022,13-03-2023,936952,TV,Italy,Loyalty,45,Collectors,Planned,No,0.18,168651.36,No
+CM4008,Legends Sprint,24-05-2024,01-07-2024,573777,Influencer,Italy,Loyalty,64,Celebrities,Planned,No,0.45,257249.65,Yes
+CM4009,Electric Series,05-02-2025,14-03-2025,1053313,Events,Italy,Awareness,67,Young Enthusiasts,Active,Yes,1.62,1705390.06,No
+CM4010,Launch Show,20-05-2023,12-08-2023,1816228,Events,United States,Conversion,63,Celebrities,Completed,No,0.48,871789.44,No
+CM4011,Heritage Series,21-09-2020,27-10-2020,1394656,TV,Japan,Awareness,58,Celebrities,Active,No,0.19,265984.64,No
+CM4012,Drive Promo,01-02-2025,14-02-2025,1652281,Digital,Australia,Awareness,43,Entrepreneurs,Completed,Yes,0.88,1453954.28,No
+CM4013,Drive Promo,14-04-2024,24-06-2024,1515211,Events,Switzerland,Awareness,53,Young Enthusiasts,Active,No,0.72,1090960,No
+CM4014,Summer Sprint,12-09-2020,08-10-2020,865855,TV,United Kingdom,Conversion,57,Entrepreneurs,Planned,No,-0.03,-25975.65,No
+CM4015,Electric Series,17-12-2023,04-01-2024,1717143,TV,Monaco,Loyalty,52,Young Enthusiasts,Planned,Yes,1.1,1888857.3,No
+CM4016,Legends Gala,15-05-2024,12-07-2024,1905426,TV,Germany,Conversion,71,Young Enthusiasts,Completed,No,1.92,3658423,No
+CM4017,Launch Series,09-06-2025,13-07-2025,1032613,Events,Italy,Awareness,71,Collectors,Planned,No,1.78,1837759.1,No
+CM4018,Legends Gala,03-06-2021,29-06-2021,787905,Influencer,France,Loyalty,79,Entrepreneurs,Planned,No,0.88,693348.4,Yes
+CM4019,Launch Gala,09-04-2022,23-04-2022,395616,TV,Italy,Loyalty,58,Celebrities,Active,Yes,1.31,518542,No
+CM4020,Electric Promo,17-01-2025,14-03-2025,1874931,Events,Switzerland,Loyalty,81,Young Enthusiasts,Active,Yes,1.62,3037407.2,Yes
+CM4021,Electric Promo,24-12-2022,07-01-2023,421747,Influencer,Japan,Loyalty,86,Young Enthusiasts,Completed,Yes,1.45,611748.15,Yes
+CM4022,Launch Promo,21-09-2022,22-12-2022,1288319,Influencer,Germany,Loyalty,47,Celebrities,Active,No,0.94,1210619.9,Yes
+CM4023,Heritage Series,28-01-2020,27-05-2020,1986943,Social Media,Germany,Conversion,68,Entrepreneurs,Completed,Yes,1.72,3417920,No
+CM4024,Legends Gala,21-09-2023,18-11-2023,731800,Events,Canada,Loyalty,51,Young Enthusiasts,Planned,No,0.58,424444.4,No
+CM4025,Drive Promo,04-10-2021,12-01-2022,912414,Influencer,Netherlands,Conversion,100,Collectors,Completed,No,1.28,1166841.9,Yes

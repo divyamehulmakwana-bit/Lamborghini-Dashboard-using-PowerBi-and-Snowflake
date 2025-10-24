@@ -1,0 +1,23 @@
+Vehicle_ID,Model_Name,Variant,Fuel_Type,Transmission_Type,Body_Type,Category,Engine_Capacity,Color,Manufacture_Year,Emission_Standard,Battery_Capacity_kWh,Range_km,Safety_Rating,Launch_Year,Vehicle_Cost,Horsepower,Top_Speed_kph,0-100_kph_sec,Drivetrain,Is_Active,EV_Eligible
+V1001,Aventador,LP 780-4 Ultimae,Petrol,Dual-Clutch,Coupe,Sports,6.5,Nero (Black),2021,Euro 6,0,0,5,2021,497000,780,355,2.8,AWD,Yes,No
+V1002,Huracán,EVO,Petrol,Automatic,Coupe,Sports,5.2,Rosso (Red),2020,Euro 6,0,0,5,2020,261000,640,325,2.9,AWD,Yes,No
+V1003,Urus,Performante,Petrol,Automatic,SUV,SUV,4,Giallo (Yellow),2023,Euro 6,0,0,5,2022,260000,666,305,3.3,AWD,Yes,No
+V1004,Sián,FKP 37,Hybrid,Automatic,Coupe,Hypercar,6.5,Verde (Green),2020,Euro 6d,34,30,5,2020,3200000,808,350,2.8,AWD,Yes,No
+V1005,Countach,LPI 800-4,Hybrid,Dual-Clutch,Coupe,Concept,6.5,Bianco (White),2022,Euro 6d,34,30,5,2022,2600000,803,355,2.8,AWD,Yes,No
+V1006,Terzo Millennio,Concept EV,Electric,Automatic,Concept,Concept,0,Argento (Silver),2025,Zero,120,500,5,2025,3500000,850,340,2.6,AWD,Yes,Yes
+V1007,Revuelto,Hybrid AWD,Hybrid,Dual-Clutch,Coupe,Sports,6.5,Arancio (Orange),2023,Euro 6d,30,25,5,2023,450000,1015,350,2.5,AWD,Yes,No
+V1008,Essenza SCV12,Track Edition,Petrol,Sequential,Coupe,Track,6.5,Nero (Black),2020,Euro 6,0,0,4,2020,2700000,830,335,2.6,RWD,No,No
+V1009,Lanzador,Luxury EV,Electric,Automatic,Gran Turismo,Sports,0,Grigio (Grey),2025,Zero,120,520,5,2025,295000,700,320,3.4,AWD,Yes,Yes
+V1010,Centenario,LP 770-4,Petrol,Dual-Clutch,Coupe,Hypercar,6.5,Nero (Black),2017,Euro 6,0,0,4,2016,1800000,770,350,2.8,AWD,No,No
+V1011,Gallardo,LP 560-4,Petrol,Automatic,Coupe,Sports,5.2,Giallo (Yellow),2013,Euro 5,0,0,4,2012,200000,560,325,3.7,AWD,No,No
+V1012,Veneno,LP 750-4,Petrol,Dual-Clutch,Roadster,Hypercar,6.5,Argento (Silver),2014,Euro 6,0,0,5,2013,4200000,750,355,2.8,AWD,No,No
+V1013,Diablo,SV,Petrol,Manual,Coupe,Classic,5.7,Rosso (Red),1999,Euro 3,0,0,3,1999,180000,530,320,4.1,RWD,No,No
+V1014,Murciélago,LP 670-4 SV,Petrol,Dual-Clutch,Coupe,Sports,6.5,Verde (Green),2010,Euro 4,0,0,4,2010,400000,670,342,3.2,AWD,No,No
+V1015,Reventón,Base,Petrol,Dual-Clutch,Coupe,Hypercar,6.5,Grigio (Grey),2008,Euro 4,0,0,4,2008,1500000,650,340,3.4,AWD,No,No
+V1016,Urus SE,Plug-in Hybrid,Hybrid,Automatic,SUV,SUV,4,Blu (Blue),2025,Euro 7,25,60,5,2025,310000,789,320,3.2,AWD,Yes,No
+V1017,Asterion,LPI 910-4,Hybrid,Automatic,Coupe,Concept,5.2,Bianco (White),2015,Euro 6,50,50,4,2015,450000,910,320,3,AWD,No,No
+V1018,Aventador,J Roadster,Petrol,Manual,Roadster,Sports,6.5,Nero (Black),2016,Euro 6,0,0,4,2016,2200000,700,350,2.9,AWD,No,No
+V1019,Huracán,STO,Petrol,Dual-Clutch,Coupe,Track,5.2,Verde (Green),2022,Euro 6,0,0,5,2022,350000,640,310,3,RWD,Yes,No
+V1020,Revuelto,Ad Personam,Hybrid,Dual-Clutch,Coupe,Sports,6.5,Viola (Purple),2025,Euro 6d,30,25,5,2025,520000,1015,350,2.5,AWD,Yes,No
+V1021,Countach,25th Anniversary,Petrol,Manual,Coupe,Classic,5.2,Bianco (White),1990,Euro 1,0,0,3,1990,300000,455,295,4.8,RWD,No,No
+V1022,Huracán,Tecnica,Petrol,Dual-Clutch,Coupe,Track,5.2,Verde (Green),2023,Euro 6,0,0,5,2023,280000,640,325,3,RWD,Yes,No

@@ -1,0 +1,31 @@
+Dealer_ID,Dealer_Name,Outlet_Type,Dealer_Type,Country,Target_Sales,Actual_Sales,Dealer_Rating,Service_Center_Available
+D301,Apex Motors Gallery,Both,Independent,Monaco,69,63,4.3,Yes
+D302,AutoLux Motors Showroom,Both,Authorized,Germany,85,88,4.6,Yes
+D303,Royal Motors Showroom,Showroom,Authorized,Japan,22,24,4.6,Yes
+D304,Royal Motors Group,Both,Authorized,UAE,73,70,3.6,Yes
+D305,Royal Motors Gallery,Both,Authorized,Singapore,74,80,3.6,Yes
+D306,Grand Motors Showroom,Both,Authorized,Saudi Arabia,37,41,4.2,Yes
+D307,Royal Motors Group,Showroom,Authorized,Australia,93,86,3.8,Yes
+D308,AutoLux Motors Hub,Service,Authorized,Germany,97,102,4.2,Yes
+D309,Apex Motors Hub,Showroom,Authorized,Germany,29,28,4.6,Yes
+D310,Prestige Motors Group,Showroom,Authorized,United States,21,22,4.8,No
+D311,AutoLux Motors Group,Showroom,Authorized,Australia,63,69,4.7,Yes
+D312,AutoLux Motors Gallery,Showroom,Authorized,Singapore,39,41,4.5,Yes
+D313,Elite Motors Showroom,Both,Authorized,Singapore,32,30,4,Yes
+D314,Prestige Motors Group,Showroom,Authorized,China,69,72,3.7,Yes
+D315,Apex Motors Hub,Both,Authorized,United Kingdom,47,51,3.6,Yes
+D316,AutoLux Motors Gallery,Both,Authorized,China,93,97,4.9,Yes
+D317,Elite Motors Showroom,Showroom,Independent,China,33,36,3.7,Yes
+D318,Royal Motors Gallery,Showroom,Authorized,Saudi Arabia,60,66,4.9,Yes
+D319,Elite Motors Hub,Both,Authorized,Singapore,88,92,4.8,Yes
+D320,AutoLux Motors Hub,Showroom,Authorized,UAE,62,60,4.6,Yes
+D321,Grand Motors Hub,Showroom,Authorized,United States,29,32,4,Yes
+D322,Prestige Motors Hub,Both,Authorized,Germany,77,81,4.8,Yes
+D323,Apex Motors Showroom,Service,Authorized,Switzerland,32,33,3.6,Yes
+D324,Apex Motors Group,Service,Independent,Saudi Arabia,75,78,4.8,No
+D325,AutoLux Motors Hub,Service,Authorized,Netherlands,39,44,4.7,Yes
+D326,Grand Motors Showroom,Showroom,Authorized,Germany,49,51,4.6,Yes
+D327,Prime Motors Hub,Showroom,Authorized,Australia,59,62,3.6,Yes
+D328,Elite Motors Hub,Showroom,Authorized,Japan,93,89,3.5,Yes
+D329,Apex Motors Gallery,Service,Authorized,Japan,40,42,4,Yes
+D330,Elite Motors Showroom,Both,Authorized,Australia,63,67,3.9,Yes
